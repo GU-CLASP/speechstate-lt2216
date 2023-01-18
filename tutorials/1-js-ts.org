@@ -1,3 +1,5 @@
+#+OPTIONS: toc:t ":t
+
 * Programming environment
 You will be learning many technologies through this
 course. Programming languages such as JavaScript,
